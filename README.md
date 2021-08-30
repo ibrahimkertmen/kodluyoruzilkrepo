@@ -30,6 +30,6 @@ code .
 
 Pull requestler kabul edilir. Büyük değişiklirler için, lütfen önce neyi değiştirmek istediğinizi tartışmak içn bir konu açınız.
 
-#License
+# License
 
 [MIT](https://rem.mit-license.org)
